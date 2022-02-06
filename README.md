@@ -2,7 +2,7 @@
 ## Bem vindo ao meu repositório
 
 - Full Stack Dev | Devops & Infrastructure
-- Undergraduate Computer Science Studente
+- Undergraduate Computer Science Student
 ### Linguagens consolidadas
 
 
